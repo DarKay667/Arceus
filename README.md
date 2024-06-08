@@ -1,1 +1,1 @@
-abandoned project
+discontinued project
