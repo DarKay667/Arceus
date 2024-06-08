@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arceus",
+  "name": "Arceus",
+  "description": "",
+  "version": "V1.5.3",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DarKay__"],
+  "credits": "Toute distribution ou reproduction meme partielle sans l'accord de l'equipe de developpement de Arceus est strictement interdite",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
